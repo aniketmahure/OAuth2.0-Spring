@@ -1,6 +1,6 @@
-package com.practiceAuth.authorization.service;
+package com.practice.authorization.service;
 
-import com.practiceAuth.authorization.model.User;
+import com.practice.authorization.model.User;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

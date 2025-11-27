@@ -1,4 +1,4 @@
-package com.practiceAuth.authorization.model;
+package com.practice.authorization.model;
 
 import lombok.Data;
 
